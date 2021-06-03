@@ -10,6 +10,7 @@ public class Main {
 		
 		AObj aObj = new AObj();
 		aObj.funcAA();
+		
 	}
 
 }
